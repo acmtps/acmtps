@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Asim Thapa
+**Full-Stack Software Engineer | Laravel • Vue.js • TypeScript • Python | AI/Automation Enthusiast**
 
-<!--
-**acmtps/acmtps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with 6+ years of experience building scalable, secure, and user-focused applications.
+I specialize in **Laravel**, **Vue.js**, **TypeScript**, **REST APIs**, and **database architecture** — and I’m expanding deeply into **Python**, **automation**, and **AI-driven development**.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Backend:** PHP (Laravel, CI), Python (Flask/FastAPI), Node.js
+- **Frontend:** Vue.js, TypeScript, Tailwind, Bootstrap
+- **Database:** MySQL, Firebase
+- **DevOps:** Docker, Git, CI/CD (CircleCI)
+- **Cloud:** AWS (EC2, S3, Lambda basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Focus Areas
+- Python automation & backend development
+- AI-assisted coding workflows
+- Full-stack web applications
+- Clean architecture & scalable systems
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/asim-thapa-8ab7b7b3
+- Email: acmtps@gmail.com
+
+Let’s build something amazing!
