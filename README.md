@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asim Thapa
 **Full-Stack Software Engineer | Laravel • Vue.js • TypeScript • Python | AI/Automation Enthusiast**
 
-I’m a software engineer with 6+ years of experience building scalable, secure, and user-focused applications.
+I’m a software engineer with 8+ years of experience building scalable, secure, and user-focused applications.
 I specialize in **Laravel**, **Vue.js**, **TypeScript**, **REST APIs**, and **database architecture** — and I’m expanding deeply into **Python**, **automation**, and **AI-driven development**.
 
 ### 🔧 Tech Stack
